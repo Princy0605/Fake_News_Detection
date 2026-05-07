@@ -19,7 +19,8 @@ The main objective of this project is to build a deep learning model capable of 
 ---
 
 # 📂 Dataset
-The dataset is uploaded for better understanding.
+The dataset can be downloadec from the following link:
+Link:https://www.kaggle.com/datasets/nitaisatapathy/welfake-dataset
 
 The dataset contains:
 - News Title
